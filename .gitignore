@@ -3,7 +3,5 @@ __pycache__/
 .venv/
 venv/
 .env
-best.pt
-*.pt
 *.onnx
 *.engine
